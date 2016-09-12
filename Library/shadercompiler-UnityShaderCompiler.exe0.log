@@ -1,0 +1,72 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Cmd: getPlatforms
+Cmd: disassembleShader
+  api=10 insize=1216 outsize=1991 ok=1
+Cmd: disassembleShader
+  api=10 insize=2028 outsize=3328 ok=1
+Cmd: disassembleShader
+  api=10 insize=1252 outsize=2141 ok=1
+Cmd: disassembleShader
+  api=15 insize=2353 outsize=3801 ok=1
+Cmd: disassembleShader
+  api=10 insize=1400 outsize=2359 ok=1
+Cmd: disassembleShader
+  api=10 insize=1456 outsize=2463 ok=1
+Cmd: disassembleShader
+  api=15 insize=2425 outsize=3930 ok=1
+Cmd: disassembleShader
+  api=10 insize=1320 outsize=2267 ok=1
+Cmd: disassembleShader
+  api=15 insize=2425 outsize=3930 ok=1
+Cmd: disassembleShader
+  api=10 insize=992 outsize=1673 ok=1
+Cmd: disassembleShader
+  api=10 insize=1216 outsize=1991 ok=1
+Cmd: disassembleShader
+  api=10 insize=1412 outsize=2423 ok=1
+Cmd: disassembleShader
+  api=10 insize=1412 outsize=2423 ok=1
+Cmd: disassembleShader
+  api=15 insize=2309 outsize=3768 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=530 outsize=848 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=9 insize=848 outsize=1415 ok=1
+Cmd: disassembleShader
+  api=9 insize=1600 outsize=2725 ok=1
+Cmd: disassembleShader
+  api=15 insize=3141 outsize=4878 ok=1
+Cmd: disassembleShader
+  api=13 insize=4881 outsize=8895 ok=1
+Cmd: disassembleShader
+  api=9 insize=1244 outsize=2099 ok=1
+Cmd: disassembleShader
+  api=13 insize=3045 outsize=5976 ok=1
+Cmd: disassembleShader
+  api=15 insize=2505 outsize=3974 ok=1
+Cmd: disassembleShader
+  api=13 insize=3549 outsize=6769 ok=1
+Cmd: disassembleShader
+  api=9 insize=1324 outsize=2227 ok=1
+Cmd: disassembleShader
+  api=15 insize=2605 outsize=4161 ok=1
+Cmd: disassembleShader
+  api=13 insize=3725 outsize=7058 ok=1
+Cmd: disassembleShader
+  api=9 insize=1004 outsize=1691 ok=1
+Cmd: disassembleShader
+  api=13 insize=1001 outsize=2528 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=530 outsize=848 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=9 insize=848 outsize=1415 ok=1
+Cmd: disassembleShader
+  api=9 insize=1460 outsize=2540 ok=1
+Cmd: disassembleShader
+  api=13 insize=3557 outsize=6770 ok=1
+Cmd: disassembleShader
+  api=9 insize=440 outsize=744 ok=1
+Cmd: disassembleShader
+  api=9 insize=496 outsize=842 ok=1
+Cmd: disassembleShader
+  api=9 insize=1004 outsize=1691 ok=1

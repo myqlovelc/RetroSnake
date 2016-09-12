@@ -1,0 +1,62 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Cmd: getPlatforms
+Cmd: disassembleShader
+  api=10 insize=1392 outsize=2300 ok=1
+Cmd: disassembleShader
+  api=10 insize=2204 outsize=3647 ok=1
+Cmd: disassembleShader
+  api=15 insize=2353 outsize=3796 ok=1
+Cmd: disassembleShader
+  api=10 insize=1252 outsize=2141 ok=1
+Cmd: disassembleShader
+  api=15 insize=2353 outsize=3791 ok=1
+Cmd: disassembleShader
+  api=15 insize=2189 outsize=3605 ok=1
+Cmd: disassembleShader
+  api=10 insize=1320 outsize=2267 ok=1
+Cmd: disassembleShader
+  api=15 insize=2557 outsize=4136 ok=1
+Cmd: disassembleShader
+  api=15 insize=1733 outsize=2618 ok=1
+Cmd: disassembleShader
+  api=15 insize=1953 outsize=3292 ok=1
+Cmd: disassembleShader
+  api=10 insize=1216 outsize=1991 ok=1
+Cmd: disassembleShader
+  api=10 insize=1412 outsize=2423 ok=1
+Cmd: disassembleShader
+  api=15 insize=2445 outsize=3963 ok=1
+Cmd: disassembleShader
+  api=15 insize=2621 outsize=4244 ok=1
+Cmd: disassembleShader
+  api=13 insize=4629 outsize=8451 ok=1
+Cmd: disassembleShader
+  api=13 insize=3637 outsize=6892 ok=1
+Cmd: disassembleShader
+  api=15 insize=2505 outsize=3979 ok=1
+Cmd: disassembleShader
+  api=13 insize=3637 outsize=6892 ok=1
+Cmd: disassembleShader
+  api=13 insize=3929 outsize=7406 ok=1
+Cmd: disassembleShader
+  api=9 insize=1424 outsize=2377 ok=1
+Cmd: disassembleShader
+  api=15 insize=2577 outsize=4108 ok=1
+Cmd: disassembleShader
+  api=13 insize=3725 outsize=7058 ok=1
+Cmd: disassembleShader
+  api=9 insize=388 outsize=667 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=530 outsize=1089 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=15 insize=1089 outsize=2111 ok=1
+Cmd: disassembleShader
+  api=13 insize=2965 outsize=5909 ok=1
+Cmd: disassembleShader
+  api=15 insize=2553 outsize=3906 ok=1
+Cmd: disassembleShader
+  api=13 insize=1037 outsize=2732 ok=1
+Cmd: disassembleShader
+  api=15 insize=1733 outsize=2618 ok=1
+Cmd: disassembleShader
+  api=13 insize=1001 outsize=2528 ok=1
